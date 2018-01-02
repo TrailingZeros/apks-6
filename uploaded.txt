@@ -1697,3 +1697,53 @@
 /Root/androidapps/Opera Max_0.9.796.apk
 /Root/androidapps/Opera Max_1.0.14.apk
 /Root/androidapps/Opera Max_1.0.225.113.apk
+/Root/androidapps/Opera Max_1.0.225.apk
+/Root/androidapps/Opera Max_1.1.286.apk
+/Root/androidapps/Opera Max_1.2.27.apk
+/Root/androidapps/Opera Max_1.5.6.apk
+/Root/androidapps/Opera Max_1.6.16.apk
+/Root/androidapps/Opera Max_1.6.26.apk
+/Root/androidapps/Opera Max_1.6.34.1.apk
+/Root/androidapps/Opera Max_1.6.34.apk
+/Root/androidapps/Opera Max_1.7.5.apk
+/Root/androidapps/Opera Max_1.7.8.apk
+/Root/androidapps/Opera Mini_10.0.1884.93721.apk
+/Root/androidapps/Opera Mini_11.0.1912.95711.apk
+/Root/androidapps/Opera Mini_11.0.1912.96480.apk
+/Root/androidapps/Opera Mini_12.0.1987.97260.apk
+/Root/androidapps/Opera Mini_12.0.1987.98155.apk
+/Root/androidapps/Opera Mini_13.0.2036.98649.apk
+/Root/androidapps/Opera Mini_14.0.2065.100298.apk
+/Root/androidapps/Opera Mini_14.0.2065.99985.apk
+/Root/androidapps/Opera Mini_15.0.2125.101257.apk
+/Root/androidapps/Opera Mini_16.0.2168.102992.apk
+/Root/androidapps/Opera Mini_16.0.2168.103662.apk
+/Root/androidapps/Opera Mini_17.0.2211.105178.apk
+/Root/androidapps/Opera Mini_18.0.2254.106200.apk
+/Root/androidapps/Opera Mini_18.0.2254.106454.apk
+/Root/androidapps/Opera Mini_9.0.1829.92366.apk
+/Root/androidapps/Opera Mini_9.0.1829.92871.apk
+/Root/androidapps/Opera_18.0.1290.66961.apk
+/Root/androidapps/Opera_18.0.1290.67495.apk
+/Root/androidapps/Opera_19.0.1340.69721.apk
+/Root/androidapps/Opera_25.0.1619.84037.apk
+/Root/androidapps/Opera_26.0.1656.87080.apk
+/Root/androidapps/Opera_28.0.1764.90386.apk
+/Root/androidapps/Opera_29.0.1809.91837.apk
+/Root/androidapps/Opera_29.0.1809.92117.apk
+/Root/androidapps/Opera_30.0.1856.93524.apk
+/Root/androidapps/Orbot_15.1.2.apk
+/Root/androidapps/Outlook.com_7.8.2.12.49.2176.apk
+/Root/androidapps/Outlook.com_7.8.2.12.49.7564.apk
+/Root/androidapps/Outlook.com_7.8.2.12.49.9774.apk
+/Root/androidapps/PCM録音_3.1.1.apk
+/Root/androidapps/PCM録音_4.0.3.apk
+/Root/androidapps/PCM録音_5.1.2.apk
+/Root/androidapps/PCM録音_5.2.1.apk
+/Root/androidapps/PCM録音_5.3.0.apk
+/Root/androidapps/PCM録音_5.4.0.apk
+/Root/androidapps/PCM録音_5.4.1.apk
+/Root/androidapps/PHP 向けサーバー_1.8.10.apk
+/Root/androidapps/PM-MP Servers_2.0.5.apk
+/Root/androidapps/PacProcessor_4.4-920375.apk
+/Root/androidapps/PacProcessor_4.4.2-937116.apk
