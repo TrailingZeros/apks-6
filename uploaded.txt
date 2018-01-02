@@ -1647,3 +1647,53 @@
 /Root/androidapps/NFCサービス_6.0-2256973.apk
 /Root/androidapps/NFCサービス_6.0-2256973.systag
 /Root/androidapps/NFCサービス_6.0-2289998.apk
+/Root/androidapps/NFCサービス_6.0-2289998.systag
+/Root/androidapps/NFCサービス_6.0.1.apk
+/Root/androidapps/NFCサービス_6.0.1.systag
+/Root/androidapps/NFCタグリーダー_2.2.2.apk
+/Root/androidapps/NoRoot Firewall_3.0.1.apk
+/Root/androidapps/NonUsedAlert_1.0.apk
+/Root/androidapps/Office Lens_16.0.6315.1000.apk
+/Root/androidapps/OfficeSuite_7.3.1513.apk
+/Root/androidapps/OfficeSuite_7.3.1531.apk
+/Root/androidapps/OfficeSuite_7.3.1543.apk
+/Root/androidapps/OfficeSuite_7.4.1604.apk
+/Root/androidapps/OneDrive_2.9.1.apk
+/Root/androidapps/OneDrive_2.9.2.apk
+/Root/androidapps/OneDrive_2.9.4.apk
+/Root/androidapps/OneDrive_2.9.7.apk
+/Root/androidapps/OneDrive_2.9.8.apk
+/Root/androidapps/OneDrive_3.0.1.apk
+/Root/androidapps/OneDrive_3.0.2.apk
+/Root/androidapps/OneDrive_3.0.apk
+/Root/androidapps/OneDrive_3.1.1.apk
+/Root/androidapps/OneDrive_3.1.apk
+/Root/androidapps/OneDrive_3.2.1.apk
+/Root/androidapps/OneDrive_3.2.apk
+/Root/androidapps/OneDrive_3.3.1.apk
+/Root/androidapps/OneDrive_3.3.apk
+/Root/androidapps/OneDrive_3.4.apk
+/Root/androidapps/OneDrive_3.5.apk
+/Root/androidapps/OneDrive_3.6.apk
+/Root/androidapps/OneDrive_3.7.apk
+/Root/androidapps/OneDrive_3.8.apk
+/Root/androidapps/OneDrive_3.9.1.apk
+/Root/androidapps/OneDrive_3.9.3.apk
+/Root/androidapps/OneDrive_3.9.apk
+/Root/androidapps/OneDrive_4.0.2.apk
+/Root/androidapps/OneDrive_4.0.3.apk
+/Root/androidapps/OneDrive_4.0.4.apk
+/Root/androidapps/OneDrive_4.1.apk
+/Root/androidapps/OneNote_15.0.2020.2302.apk
+/Root/androidapps/OneNote_15.0.2416.2300.apk
+/Root/androidapps/OneNote_15.0.3130.1014.apk
+/Root/androidapps/OneNote_15.0.3231.1039.apk
+/Root/androidapps/OneNote_15.0.3232.1047.apk
+/Root/androidapps/OneNote_15.0.3930.1007.apk
+/Root/androidapps/OneNote_15.0.3931.1010.apk
+/Root/androidapps/OpenVPN Connect_1.1.12.apk
+/Root/androidapps/OpenVPN Connect_1.1.16.apk
+/Root/androidapps/OpenVPN Connect_1.1.17.apk
+/Root/androidapps/Opera Max_0.9.796.apk
+/Root/androidapps/Opera Max_1.0.14.apk
+/Root/androidapps/Opera Max_1.0.225.113.apk
