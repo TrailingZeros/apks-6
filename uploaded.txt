@@ -1897,3 +1897,53 @@
 /Root/androidapps/Shou_0.8.0.apk
 /Root/androidapps/Show Java_2.0.5.apk
 /Root/androidapps/Show Java_2.0.6.apk
+/Root/androidapps/Show Java_2.0.7.apk
+/Root/androidapps/Show Java_2.0.9.apk
+/Root/androidapps/Show Java_2.1.0.apk
+/Root/androidapps/Simeji_9.1.4.apk
+/Root/androidapps/SkyDrive_1.1.apk
+/Root/androidapps/Skype_4.4.0.34403.apk
+/Root/androidapps/Skype_4.5.0.39600.apk
+/Root/androidapps/Skype_5.0.0.52727.apk
+/Root/androidapps/Skype_5.1.0.58677.apk
+/Root/androidapps/Skype_5.10.0.15007.apk
+/Root/androidapps/Skype_5.11.0.15289.apk
+/Root/androidapps/Skype_5.11.0.15471.apk
+/Root/androidapps/Skype_5.2.0.62296.apk
+/Root/androidapps/Skype_5.3.0.65246.apk
+/Root/androidapps/Skype_5.3.0.65524.apk
+/Root/androidapps/Skype_5.4.0.3239.apk
+/Root/androidapps/Skype_5.4.0.4165.apk
+/Root/androidapps/Skype_5.4.0.5191.apk
+/Root/androidapps/Skype_5.4.0.5871.apk
+/Root/androidapps/Skype_5.5.0.11658.apk
+/Root/androidapps/Skype_5.6.0.12393.apk
+/Root/androidapps/Skype_5.7.0.13054.apk
+/Root/androidapps/Skype_5.8.0.13549.apk
+/Root/androidapps/Skype_5.9.0.14047.apk
+/Root/androidapps/Skype_6.1.0.16416.apk
+/Root/androidapps/Skype_6.10.0.620.apk
+/Root/androidapps/Skype_6.11.0.518.apk
+/Root/androidapps/Skype_6.12.0.585.apk
+/Root/androidapps/Skype_6.13.0.608.apk
+/Root/androidapps/Skype_6.14.0.665.apk
+/Root/androidapps/Skype_6.15.0.1153.apk
+/Root/androidapps/Skype_6.15.0.1162.apk
+/Root/androidapps/Skype_6.16.0.1919.apk
+/Root/androidapps/Skype_6.17.0.420.apk
+/Root/androidapps/Skype_6.18.0.911.apk
+/Root/androidapps/Skype_6.19.0.460.apk
+/Root/androidapps/Skype_6.2.0.17000.apk
+/Root/androidapps/Skype_6.20.0.618.apk
+/Root/androidapps/Skype_6.21.0.560.apk
+/Root/androidapps/Skype_6.22.0.680.apk
+/Root/androidapps/Skype_6.23.0.702.apk
+/Root/androidapps/Skype_6.23.0.704.apk
+/Root/androidapps/Skype_6.24.0.1006.apk
+/Root/androidapps/Skype_6.25.0.1107.apk
+/Root/androidapps/Skype_6.27.0.719.apk
+/Root/androidapps/Skype_6.28.0.510.apk
+/Root/androidapps/Skype_6.29.0.758.apk
+/Root/androidapps/Skype_6.3.0.503.apk
+/Root/androidapps/Skype_6.30.0.612.apk
+/Root/androidapps/Skype_6.31.0.709.apk
